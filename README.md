@@ -1,7 +1,7 @@
 ## Hi, I'm Giorgina 👋  
 
-🎓 I'm a dual-degree student at Metropolitan State University of Denver, pursuing:  
-- **B.S. in Data Science & Machine Learning**  
+🎓 I'm a dual-degree student pursuing:  
+- **B.S. in Data Science**  
 - **B.S. in Aviation & Aerospace Science (Professional Pilot Program)**  
 
 <br>
